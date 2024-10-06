@@ -4,11 +4,11 @@ A simple and elegant Todo application built using **React.js**, **Tailwind CSS**
 
 ## 🚀 Key Features
 
-📌 **Add Tasks:** Quickly add tasks to your list  
-📌 **Update Tasks:** Edit tasks to reflect changes  
-📌 **Remove Tasks:** Easily remove tasks when completed  
-📌 **Mark Tasks as Completed:** Keep track of completed tasks  
-📌 **State Management with Redux Toolkit:** Efficient state handling with Redux Toolkit
+- **Add Tasks:** Quickly add tasks to your list  
+- **Update Tasks:** Update tasks to your list with single click  
+- **Remove Tasks:** Easily remove tasks when completed  
+- **Mark Tasks as Completed:** Keep track of completed tasks  
+- **State Management with Redux Toolkit:** Efficient state handling with Redux Toolkit
   
 
 ## 🛠️ Technologies Used
